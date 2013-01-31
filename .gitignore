@@ -12,3 +12,12 @@ logs
 results
 
 npm-debug.log
+
+.idea
+
+coverage.xml
+
+coverage.html
+node_modules
+
+synthesis.iml
